@@ -1,0 +1,10 @@
+G:\5thYear\TPP2\Lab_Tpp_1\TPP2_Lab_1\bin\Release\TPP2_Lab_1.exe.config
+G:\5thYear\TPP2\Lab_Tpp_1\TPP2_Lab_1\bin\Release\TPP2_Lab_1.exe
+G:\5thYear\TPP2\Lab_Tpp_1\TPP2_Lab_1\bin\Release\TPP2_Lab_1.pdb
+G:\5thYear\TPP2\Lab_Tpp_1\TPP2_Lab_1\obj\Release\TPP2_Lab_1.csproj.AssemblyReference.cache
+G:\5thYear\TPP2\Lab_Tpp_1\TPP2_Lab_1\obj\Release\TPP2_Lab_1.Form1.resources
+G:\5thYear\TPP2\Lab_Tpp_1\TPP2_Lab_1\obj\Release\TPP2_Lab_1.Properties.Resources.resources
+G:\5thYear\TPP2\Lab_Tpp_1\TPP2_Lab_1\obj\Release\TPP2_Lab_1.csproj.GenerateResource.cache
+G:\5thYear\TPP2\Lab_Tpp_1\TPP2_Lab_1\obj\Release\TPP2_Lab_1.csproj.CoreCompileInputs.cache
+G:\5thYear\TPP2\Lab_Tpp_1\TPP2_Lab_1\obj\Release\TPP2_Lab_1.exe
+G:\5thYear\TPP2\Lab_Tpp_1\TPP2_Lab_1\obj\Release\TPP2_Lab_1.pdb
